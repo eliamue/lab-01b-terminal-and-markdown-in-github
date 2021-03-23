@@ -1,5 +1,3 @@
-# lab-01b-terminal-and-markdown-in-
-
 # Alignment of Pets I Know
 ## For no reason whatsoever
 
