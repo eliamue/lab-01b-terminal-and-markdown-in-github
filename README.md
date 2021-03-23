@@ -10,8 +10,8 @@ _Just kidding you monster_
 * Not puppies
 * Also not puppies but mad about it
 
-#Alignment of Cats I Know
-##For no reason whatsoever
+# Alignment of Cats I Know
+## For no reason whatsoever
 
 |         | Lawful | Neutral | Chaotic   |   |
 |---------|--------|---------|-----------|---|
